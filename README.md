@@ -18,36 +18,28 @@ UrbanSafe is an interactive web application that provides users with in-depth cr
 - **Database:** CSV-based crime data storage and analysis  
 - **Visualization:** Leaflet, ggplot2, dplyr for interactive data representation  
 
-## Installation & Setup  
+## Future Improvements 🚀
+- ✅ **Machine learning-based crime prediction**
+- ✅ **More granular filtering (day-wise, severity, etc.)**
+- ✅ **Live crime data integration**
 
-### For Web App (Shiny)  
+## Contributing
+### Current Contributors:
+- **Soham Vazirani** 📧 [sohamvazirani@gmail.com](mailto:sohamvazirani@gmail.com)
+- **Dharmil Savla** 📧 [dsav1306@gmail.com](mailto:dsav1306@gmail.com)
+- **Aryan Goenka** 📧 [avgoeanka@wisc.edu](mailto:avgoeanka@wisc.edu)
+- **Devanshi Jain** 📧 [dsjain3@wisc.edu](mailto:dsjain3@wisc.edu)
+- **Siddarth Sethupathy** 📧 [setupathy@wisc.edu](mailto:setupathy@wisc.edu)
 
-#### 1️⃣ Clone the repository:  
-```sh
-git clone https://github.com/yourusername/UrbanSafe.git
-cd UrbanSafe
-install.packages(c("shiny", "ggplot2", "dplyr", "bslib", "readr", "leaflet", "lubridate", "leaflet.extras", "jsonlite", "httpuv"))
-shiny::runApp()
+💡 **Contributions are welcome!** Fork this repository, create a new branch, and submit a pull request.
 
-## Future Improvements 🚀  
+## License 📝
+This project is licensed under the **MIT License**.
 
-- ✅ **Machine learning-based crime prediction**  
-- ✅ **More granular filtering (day-wise, severity, etc.)**  
-- ✅ **Live crime data integration**  
 
-## Contributing  
+License 📝
+This project is licensed under the MIT License.
 
-### Current Contributors:  
-
-- **Soham Vazirani** 📧 [sohamvazirani@gmail.com](mailto:sohamvazirani@gmail.com)  
-- **Dharmil Savla** 📧 [dsav1306@gmail.com](mailto:dsav1306@gmail.com)  
-- **Aryan Goenka** 📧 [avgoeanka@wisc.edu](mailto:avgoeanka@wisc.edu)  
-- **Devanshi Jain** 📧 [dsjain3@wisc.edu](mailto:dsjain3@wisc.edu)  
-- **Siddarth Sethupathy** 📧 [setupathy@wisc.edu](mailto:setupathy@wisc.edu)  
-
-💡 **Contributions are welcome!** Fork this repository, create a new branch, and submit a pull request.  
-
-## License 📝  
-
-This project is licensed under the **MIT License**.  
-
+python
+Copy
+Edit
